@@ -1,0 +1,21 @@
+{
+  "allowed": [
+    "tundeveloped_real",
+    "AdminTunDeveloped"
+  ],
+  "keys": {
+    "TUN-2026-ABC123": {
+      "user": "MWYJ57D4DM",
+      "expire": "2026-12-31"
+    },
+    "TUN-2026-XYZ999": {
+      "user": "khach2",
+      "expire": "2026-10-15"
+    },
+    "TUN-2026-PRO888": {
+      "user": "khach3",
+      "expire": "2026-12-31"
+    }
+  },
+  "message": "👑 AIM Proxy Tun Developed 👑"
+}
